@@ -8,6 +8,9 @@ footer{
 	margin-top:5px;
 	font-size:50px;
 }
+.media-icons{
+	display:flex;
+}
 .bottom-details{
 	padding:25px 50px;
 	background-color:grey;
